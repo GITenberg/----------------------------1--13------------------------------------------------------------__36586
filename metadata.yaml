@@ -1,0 +1,22 @@
+_repo: '----------------------------1--13------------------------------------------------------------__36586'
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: Arabian Nights, Vol. 1
+gutenberg_issued: '2011-07-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36586'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tales -- Arab countries'
+- !lcc 'PJ'
+- !lcsh 'Fairy tales'
+title: "Παραμύθια της Χαλιμάς Τόμος 1\r\nΉτοι Διηγήσεις και Συβεβηκότα λίαν περίεργα\
+  \  και ωραία Συνταχθέντα εις την Αραβικήν υπό του πολυμαθούς Δερβίς Αμπου Mπεκήρ\
+  \ Κατά την έκδοσιν της Βενετίας"
+url: http://www.gutenberg.org/ebooks/36586
